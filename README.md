@@ -1,1 +1,5 @@
-# genetic-feature-selection-for-customer-classification
+> 📘 **Read the detailed documentation:**
+> 
+[➡️ **Open guidelines**](project-guidelines.pdf)
+
+[➡️ **Open report**](report.pdf)
